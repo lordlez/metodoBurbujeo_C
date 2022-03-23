@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1647479445 source:d:\c\metodoburbujeo\main.c
+	"header.h"
+
+1647479186 d:\c\metodoburbujeo\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1647479498 source:d:\c\metodoburbujeo\funciones.c
+	"header.h"
+
